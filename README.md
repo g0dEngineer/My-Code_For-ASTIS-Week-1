@@ -3,7 +3,8 @@
 # Week1-Foundational Neural Network-Submission-Sample
 
 
-Solution is:
+Solutions are:
+
 Cycle 1
 https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/tree/main/Universal%20Ai%20Diploma%20Sessions#january-7-2022
 
